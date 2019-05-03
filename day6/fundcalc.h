@@ -2,7 +2,7 @@
 #define _FUNDCALC_H_
 
 class FundCalc{
- private:
+ protected:
   double m_number1;
   double m_number2;
  public:

@@ -1,4 +1,4 @@
-# build list1-*.cpp
+# Build list1-*.cpp
 add_executable(list1-1
   ${CMAKE_CURRENT_LIST_DIR}/list1-1.cpp)
 
